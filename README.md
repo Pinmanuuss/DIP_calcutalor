@@ -4,7 +4,7 @@
 ## Introduction
 เครื่องคิดเลขนะจ๊ะ จุ๊บๆ
 
-## Tnstallation
+## Installation
  1. install python
  2. execute python main.py
 
