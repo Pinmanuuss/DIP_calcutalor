@@ -19,5 +19,8 @@
  7. ถ้า error พิมพ์ terminal -> git config --global user.name "..." และ git config --global user.email "..."
  8. แล้วกด commit อีกรอบ
 
+ สร้างเครื่องคิดเลข
+ 
+
  ## Disclaimer
  for educational purpose only. Run on your own risk.
